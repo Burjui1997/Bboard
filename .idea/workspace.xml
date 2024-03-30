@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa63e429-0f35-4087-b161-52c4c8168c62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/bboard/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/samplesite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/samplesite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/samplesite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/samplesite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
